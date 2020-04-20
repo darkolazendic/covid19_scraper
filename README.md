@@ -1,0 +1,1 @@
+**Small, for-fun project for scraping Covid-19-related news from local news sites.**
